@@ -1,0 +1,9 @@
+TASK 2 PROJECT PACKAGE
+
+1. Read README.md for setup instructions.
+2. Read SUBMISSION_REPORT.md for the project report.
+3. Run the app locally and capture your own screenshots as evidence.
+4. Create a PUBLIC GitHub repository named FUTURE_FS_02 and push this folder's contents.
+5. Submit the GitHub repository link through the official Future Interns Task Submission Portal when it is provided.
+
+Important: this package is the project source and report. It has not been deployed to a public live URL or uploaded to your GitHub account. You must complete those account-specific submission steps yourself. Never upload server/.env or share your admin password.
